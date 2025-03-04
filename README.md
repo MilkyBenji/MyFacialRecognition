@@ -1,7 +1,3 @@
-Here's your `README.md` in the requested format:  
-
----
-
 # **FacialRecognitionApp**  
 
 **FacialRecognitionApp** is a real-time face recognition system built using Python and OpenCV. This project demonstrates facial detection and recognition using the **Haar Cascade** and **Local Binary Patterns Histogram (LBPH)** algorithm.  
