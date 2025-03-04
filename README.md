@@ -26,7 +26,7 @@
 
 ## **Video Demo**  
 
-*(Insert a link to a video demo or GIF showcasing the project in action.)*  
+https://github.com/user-attachments/assets/db8bbcb8-cf2c-46ee-923d-c79fa2ecca9b
 
 ---
 
