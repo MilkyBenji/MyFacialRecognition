@@ -119,7 +119,3 @@ If you'd like to contribute to **FacialRecognitionApp**, feel free to **fork the
 ## **License**  
 
 This project is licensed under the **MIT License** – see the `LICENSE` file for details.  
-
----
-
-This `README.md` is structured for clarity and professionalism. Let me know if you need any modifications! 🚀
